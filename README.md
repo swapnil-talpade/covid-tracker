@@ -1,3 +1,14 @@
+# Created a Covid Tracker WebApp
+This is a simple app that show the number of infected,recovered and deaths of any country and the entire world.
+Also graphs to visualize the effect of Covid on particular country or the world all together.
+
+## What is used in this App?
+Used https://covid19.mathdro.id/api
+Used Material UI (for that nice minimal look)
+Used chart.js (To display barchart and linechart)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
